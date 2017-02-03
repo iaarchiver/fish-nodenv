@@ -9,7 +9,7 @@
 With [fisherman]
 
 ```
-fisher https://github.com/cafedomancer/fish-nodenv
+fisher cafedomancer/fish-nodenv
 ```
 
 ## Notes
